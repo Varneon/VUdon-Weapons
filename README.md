@@ -1,10 +1,10 @@
 <div>
 
-# [VUdon](https://github.com/Varneon/VUdon) - Repository Template [![GitHub Repo stars](https://img.shields.io/github/stars/Varneon/Repository-Template-VUdon?style=flat&label=Stars)](https://github.com/Varneon/Repository-Template-VUdon/stargazers) [![GitHub all releases](https://img.shields.io/github/downloads/Varneon/Repository-Template-VUdon/total?color=blue&label=Downloads&style=flat)](https://github.com/Varneon/Repository-Template-VUdon/releases) [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Varneon/Repository-Template-VUdon?color=blue&label=Release&sort=semver&style=flat)](https://github.com/Varneon/Repository-Template-VUdon/releases/latest)
+# [VUdon](https://github.com/Varneon/VUdon) - Weapons [![GitHub Repo stars](https://img.shields.io/github/stars/Varneon/VUdon-Weapons?style=flat&label=Stars)](https://github.com/Varneon/VUdon-Weapons/stargazers) [![GitHub all releases](https://img.shields.io/github/downloads/Varneon/VUdon-Weapons/total?color=blue&label=Downloads&style=flat)](https://github.com/Varneon/VUdon-Weapons/releases) [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Varneon/VUdon-Weapons?color=blue&label=Release&sort=semver&style=flat)](https://github.com/Varneon/VUdon-Weapons/releases/latest)
 
 </div>
 
-Template repository for VUdon packages
+Collection of UdonSharp scripts for creating functional and synced firearms for VRChat worlds
 
 # Installation
 
